@@ -12,6 +12,6 @@ Have a good time rick rolling your friends :)
 
 
 ## Example:
- <video width="320" height="240" controls>
+<video>
   <source src="https://cdn.discordapp.com/attachments/886150800118800455/890269322633682944/rickroll.mp4" type="video/mp4">>
 </video> 

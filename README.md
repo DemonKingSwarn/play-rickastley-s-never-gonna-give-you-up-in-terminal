@@ -13,5 +13,6 @@ Have a good time rick rolling your friends :)
 
 ## Example:
 
-
-<iframe width="560" height="315" src=" https://cdn.discordapp.com/attachments/886150800118800455/890269322633682944/rickroll.mp4" frameborder="0" allowfullscreen></iframe>
+<video width="320" height="240" controls>
+  <source src="https://cdn.discordapp.com/attachments/886150800118800455/890269322633682944/rickroll.mp4" type=video/mp4>
+    </video>

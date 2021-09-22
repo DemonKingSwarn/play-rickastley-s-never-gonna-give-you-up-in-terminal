@@ -2,7 +2,7 @@
 
 yeah you heard it right, you can play rick astley's never gonna give you up in terminal.
 
-<a href="https://github.com/Minelordsuniverse">Minelordsuniver</a> a friend of mine actually helped me with this.
+<a href="https://github.com/Minelordsuniverse">Minelordsuniverse</a> a friend of mine actually helped me with this.
 
 ## To run this script:
 

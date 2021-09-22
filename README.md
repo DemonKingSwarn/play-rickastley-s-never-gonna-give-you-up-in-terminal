@@ -13,4 +13,7 @@ Have a good time rick rolling your friends :)
 
 ## Example:
 
-![example](https://cdn.discordapp.com/attachments/886150800118800455/890269322633682944/rickroll.mp4)
+
+
+https://user-images.githubusercontent.com/69480361/134385737-75753ad8-8bde-43ca-8484-fbaef23303aa.mp4
+

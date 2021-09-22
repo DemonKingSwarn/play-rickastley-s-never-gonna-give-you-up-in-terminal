@@ -16,3 +16,4 @@ Have a good time rick rolling your friends :)
 <video width="320" height="240" controls>
   <source src="./rickroll.mp4" type=video/mp4>
     </video>
+[![Example video](https://raw.githubusercontent.com/DemonKingSwarn/play-rickastley-s-never-gonna-give-you-up-in-terminal/main/rickroll.mp4)

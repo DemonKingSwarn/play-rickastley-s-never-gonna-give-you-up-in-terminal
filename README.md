@@ -6,7 +6,7 @@ yeah you heard it right, you can play rick astley's never gonna give you up in t
 
 ## To run this script:
 
-open your terminal after downloading the script and type `chmod +x rickroll.py` and press enter and then just run it by double clicking or type `./rickroll.py` in terminal and press enter.
+open your terminal after downloading the script and type `chmod +x rickroll.sh` and press enter and then just run it by double clicking or type `./rickroll.sh` in terminal and press enter.
 
 Have a good time rick rolling your friends :)
 
